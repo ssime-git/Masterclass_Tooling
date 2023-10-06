@@ -6,7 +6,7 @@ on:
       - main
       
 jobs:
-  execute example:
+  execute_example:
     runs-on: ubuntu-latest
 
     steps:
