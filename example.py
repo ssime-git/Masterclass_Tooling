@@ -3,3 +3,5 @@ print("foo")
 print("bar")
 
 print(x)
+
+print('blabla')
