@@ -19,4 +19,4 @@ jobs:
           python-version: '3.11'
 
       - name: Run Python script
-        run: example.py
+        run: python example.py
