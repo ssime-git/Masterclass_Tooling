@@ -1,4 +1,4 @@
-name: Simple Data Science Workflow
+name: Simple workflow
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
       
 jobs:
-  data-science-job:
+  execute example:
     runs-on: ubuntu-latest
 
     steps:
