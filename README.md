@@ -1,1 +1,4 @@
-This repo is only here to make a small demonstration of how to use VsCode in parallel with Github. You shouldn't try to copy it or try to understand it's purpose. 
+# Github an dGithub Desktop demo
+
+This repo is only here to make a small demonstration of how to use VsCode in parallel with Github.
+
