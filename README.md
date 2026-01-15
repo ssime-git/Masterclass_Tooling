@@ -4,5 +4,6 @@ This repo is only here to make a small demonstration of how to use VsCode in par
 
 ## Onbording
 
+0. créer votre branche : convent `branch-nom`
 1. Version python du projet : `3.12`
 2. Utiliser `requirements.txt`
