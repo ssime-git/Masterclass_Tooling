@@ -2,7 +2,7 @@
 
 This repo is only here to make a small demonstration of how to use VsCode in parallel with Github.
 
-## Onbording
+## Lancement
 
 0. créer votre branche : convent `branch-nom`
 1. Version python du projet : `3.12`
